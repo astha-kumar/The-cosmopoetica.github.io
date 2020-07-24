@@ -1,0 +1,25 @@
+﻿body{
+	background-color:rgba(180, 159, 249,0.7);
+	margin: 0 auto;
+    padding: 0;
+
+}
+h1{
+	color:#FFFFFF;
+	font-family:Segoe Print;
+	text-decoration:underline;
+	text-align:center;
+	text-shadow:1px 3px black;
+}
+nav{
+	text-decoration:none;
+	font-family:HP Simplified;
+}
+.headerImage img {
+  background: #fff;
+  box-shadow: 7px 0px 10px rgba(0,0,0,.6), -7px 0px 10px rgba(0,0,0,.6);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}}
